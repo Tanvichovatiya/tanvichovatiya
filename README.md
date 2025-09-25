@@ -1,6 +1,6 @@
 # Hi 👋, I'm Tanvi Chovatiya
 
-**Full-Stack Web Developer | React.js | php | Node.js | MongoDB | Next.js | TypeScript 
+**Full-Stack Web Developer | React.js & Redux | php | Node.js | MongoDB | Next.js | TypeScript 
 
 I'm a passionate React Developer focused on building **interactive, responsive, and scalable web applications**. Currently learning **Next.js 15** and **TypeScript** to level up my full-stack development skills.
 
@@ -8,7 +8,7 @@ I'm a passionate React Developer focused on building **interactive, responsive, 
 
 ## 🔧 Skills
 
-**Frontend:** HTML | CSS | Bootstrap | JavaScript | React.js | Next.js | TypeScript  
+**Frontend:** HTML | CSS | Bootstrap | JavaScript | React.js & Redux | Next.js | TypeScript  
 **Backend:** Node.js | Express.js | PHP | MongoDB  | mysql
 
 
